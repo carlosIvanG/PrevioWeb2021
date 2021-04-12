@@ -13,6 +13,6 @@
     display: inline-block;
 
 }
-aside > p{
+aside > p > a{
     color: cornsilk;
 }
